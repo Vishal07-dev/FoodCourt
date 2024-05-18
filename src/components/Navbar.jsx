@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { AiFillTag, AiOutlineClose, AiOutlineMenu, AiOutlineSearch } from 'react-icons/ai'
 import { BsFillCartFill, BsFillSaveFill } from 'react-icons/bs'
 import { FaUserFriends, FaWallet } from 'react-icons/fa'
-import { MdFavorite, MdHelp, MdWallet } from 'react-icons/md'
+import { MdFavorite, MdHelp} from 'react-icons/md'
 import {TbTruckDelivery } from 'react-icons/tb'
 
 const Navbar = () => {
